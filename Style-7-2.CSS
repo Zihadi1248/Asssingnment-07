@@ -1,0 +1,195 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+/* <!-- heder start --> */
+
+.my1{
+margin-top:25px;
+
+}
+
+.my2{
+    margin-top: 5px;
+    width:20px;
+    height:3px;
+    background-color: black;
+    margin-bottom:-2px;
+}
+
+/* <!-- header end--> */
+
+/* <!-- Hero Section start  --> */
+
+.my3{
+    margin-top: 30px;
+    float:left;
+    margin-left:170px;
+
+}
+
+.my5{
+    float:right;
+    margin-right: 250px;
+    margin-top: 150px;
+}
+
+  h1{
+    font-size:90px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+  }
+
+.my4{
+    background-color: #81ecec;
+    overflow: hidden;
+    margin-top:30px;
+}
+
+.my6{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size:30px ;
+    
+}
+
+.my7{
+    color:white;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.my7{
+
+    padding: 5px 35px;
+    background-color: blue;
+}
+
+/* <!-- Hero Section End  --> */
+
+/* <!--2nd part start--> */
+
+.my10{
+    float:left;
+    margin-left: 120px;
+
+}
+
+.my9{
+    margin-top:100px;
+    font-size: 80px;
+}
+
+.my11{
+    font-size:30px;
+    margin-top:60px;
+}
+
+.my12 a{
+   
+   padding:6px 30px;
+   background-color: blue;
+    
+}
+
+.my12{
+    margin-top: 60px;
+}
+
+.my14{
+    overflow:hidden;
+}
+
+.my13{
+    
+    text-decoration:none;
+    font-size:30px;
+    color:white;
+
+}
+
+.my15{
+    float:right;
+    margin-right:90px;
+    
+}
+
+/* <!--2nd part end--> */
+
+/* <!--Box part start --> */
+
+.my17, .my18{
+    overflow:hidden;
+    background-color:#f1f2f6;
+   }
+   
+.box{
+    margin-left: 65px;
+}
+
+.my17 .box{
+    border-radius: 50px;
+   margin-top: 80px;
+   width:550px;
+   height:550px;
+   background-color:white;
+   float:left;
+   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  
+   
+}
+
+
+.my18 .box{
+    margin-bottom: 80px;
+    border-radius: 50px;
+    margin-top:40px;
+    width:550px;
+    height:550px;
+    background-color:white;
+    float: left;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+ }
+
+.my29{
+    margin-top: 60px;
+    width:100px;
+    height:100px;
+}
+.my30{
+    margin-top:10px;
+    font-size: 40px;
+}
+
+.my31{
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+
+/* <!--Box part end--> */
+
+.my40{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 80px;
+}
+
+.my41{
+    padding-bottom:10px;
+    padding-top:10px;
+    padding-left:60px;
+    padding-right: 60px;
+    text-decoration: none;
+    background-color: blue;
+    color:white;
+
+}
+
+.my42{
+    margin-bottom:30px;
+    margin-top:50px;
+}
